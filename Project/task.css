@@ -1,0 +1,25 @@
+
+span{
+    padding-left: 50px;
+}
+input{
+    margin-left: 500px;
+    margin-top: 10%;
+    border-radius: 10px;
+    border-color: black;
+}
+button{
+    background-color: ghostwhite;
+    color: black;
+}
+button{
+    border-radius: 10px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+ul{
+    margin-left: 550px;
+}
